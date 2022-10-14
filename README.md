@@ -23,7 +23,7 @@ I am Özgür. I am a Ph.D. candidate at the Middle East Technical University's (
 - **Özer, Ö.K.** (8 October 2015). Public Research Infrastructures in Turkey. _Conference on Turkish Universities in the European Research Area (ERA)_. Ankara, Turkey.
 
 ### Working papers 
-- Erdil, E., Meissner, D., **Özer, Ö.K.** (2020). G20: A Room for Global Club Governance: Towards a Global Innovation System? METU STPS Working Paper Series STPS-WP-18/02}. https://stps.metu.edu.tr/en/system/files/stps\_wp\_1802.pdf.
+- Erdil, E., Meissner, D., **Özer, Ö.K.** (2020). G20: A Room for Global Club Governance: Towards a Global Innovation System? METU STPS Working Paper Series [STPS-WP-18/02](https://stps.metu.edu.tr/en/system/files/stps_wp_1802.pdf).
 
 ### Reports
 - Erdil, E., Pamukçu, M.T., Akçomak, S. & **Özer, Ö.K.** (2018). Strengthening the EBRD’s Approach to Innovation and Innovation Policy in Turkey.
