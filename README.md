@@ -29,6 +29,11 @@ I am Özgür.
 - Erdil, E., Pamukçu, M.T., Akçomak, S. & **Özer, Ö.K.** (2018). Strengthening the EBRD’s Approach to Innovation and Innovation Policy in Turkey.
 - **Özer, Ö.K.** & Kadıoğlu, F. (2015). Increasing the Attractiveness of Turkish Universities for Foreign Students. Ministry of Development. (In Turkish)
 
+## Education
+- Ph.D. Candidate, Science and Technology Policy Studies (2023, expected) @ **Middle East Technical University, Ankara, Turkey** 
+- M.S., Public Policy (2010) @ **George Washington University, Washington DC, USA**
+- B.S., Industrial Engineering (1999) @ **Dokuz Eylul University, İzmir, Turkey**
+
 ## Professional Experience
 - National Expert (2021 - 2024) @ **European Tertiary Education Register (ETER) Project** 
 - Head of R&D and Entrepreneurship Department (2013 - 2016) @ **Strategy and Budget Office (then Ministry of Development), Ankara, Turkey**
