@@ -1,5 +1,5 @@
 ## Hello World!
-I am Özgür. 
+I am Özgür. I am a Ph.D. candidate at the Middle East Technical University's (METU) Science and Technology Policy Studies Program. 
 
 ## Research Interests 
 - Science, technology, and innovation policy
