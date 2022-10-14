@@ -46,9 +46,9 @@ I am Özgür. I am a Ph.D. candidate at the Middle East Technical University's (
 
 - Globelics Academy 2022 - The 15th International PhD School on Innovation and Development. Tampere University. (15-26 August 2022)
 
-- S4 Science of Science Summer School. Syreacuse University, School of Information Studies. (1 -12 August 2022) (Online)
+- S4 Science of Science Summer School. Syreacuse University, School of Information Studies. (1 -12 August 2022)
 
-- CWTS Scientometrics Summer School (CS3). CWTS, Leiden University. (20 June - 1 July 2022) (Online)
+- CWTS Scientometrics Summer School (CS3). CWTS, Leiden University. (20 June - 1 July 2022)
 
 - RISIS Online Training on Thematic and spatial analysis of technologies using Cortext and RISIS patent database. Université Gustave Eiffel (2022)
 
