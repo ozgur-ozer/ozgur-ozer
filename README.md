@@ -10,7 +10,7 @@ I am Özgür.
 
 ## Publications & Conferences
 ### Refereed journals 
-- Aydınoğlu, A.U., İlhan, A.O., **Özer, Ö.K.** (in press). Bibliometrics in Social Sciences Research: The Example of Academic Entrepreneurship. Pamukkale University Journal of Social Sciences Institute.
+- Aydınoğlu, A.U., İlhan, A.O., **Özer, Ö.K.** (in press). Bibliometrics in Social Sciences Research: The Example of Academic Entrepreneurship. _Pamukkale University Journal of Social Sciences Institute_.
 - Erdil, E., **Özer, Ö.K.** (2020). Global Innovation System Design: G20 as a Playground. _Ekonomik Yaklasim_, 31(115), 185-229. DOI: [10.5455/ey.17020](https://doi.org/10.5455/ey.17020)
 
 ### Conferences
