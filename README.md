@@ -15,17 +15,11 @@ I am Özgür.
 
 ### Conferences
 - Pineda, P., Lepori, B., &  **Özer, Ö.K.** (7-9 July 2022). Academic Employment in Europe and the US Between Structural Diversity, Stability and Change. _38th EGOS Colloquium, Vienna 2022_. Vienna, Austria.
-
 - **Özer, Ö.K.** & Erden Topal, Y. (7-9 September 2022). The Role of Gender in Turkish Solar Energy Research. _The 26th International Conference on Science, Technology and Innovation Indicators, STI 2022_. Granada, Spain. DOI:[10.5281/zenodo.6906465](https://zenodo.org/record/6906465)
-
 - **Özer, Ö.K.**, Aydınoğlu, A.U.,  & Erdil. E. (7-9 September 2022). The Relationship Between Participating EU Framework Programmes and International Co-publication. _The 26th International Conference on Science, Technology and Innovation Indicators, STI 2022_. Granada, Spain. DOI:[110.5281/zenodo.6962189](https://zenodo.org/record/6962189)
-
 - **Özer, Ö.K.** (5-7 November 2021). The Effects of COVID-19 on the Research on Economics in Turkey. _21st National Congress in Economics_. Eskişehir, Turkey.
-
 - Erdil, E. & **Özer, Ö.K.** (10-12 September 2019). A Global Innovation System Proposal for Sustainable Development Goals (SDGs). _STSTurkey 2019 Conference_. İstanbul, Turkey.
-
 - Erdil, E., Meissner, D., & **Özer, Ö.K.** (23-24 October 2018). G20: A Room For Global Club Governance: Towards A Global Innovation System? _The G20 @ 10: Benefits, Limitations and The Future of Global Club Governance in Turbulent Times_. German Development Institute. Bonn, Germany.
-
 - **Özer, Ö.K.** (8 October 2015). Public Research Infrastructures in Turkey. _Conference on Turkish Universities in the European Research Area (ERA)_. Ankara, Turkey.
 
 ### Working papers 
@@ -36,7 +30,11 @@ I am Özgür.
 - **Özer, Ö.K.** & Kadıoğlu, F. (2015). Increasing the Attractiveness of Turkish Universities for Foreign Students. Ministry of Development. (In Turkish)
 
 ## Professional Experience
-
+- National Expert (2021 - 2024) @ **European Tertiary Education Register (ETER) Project** 
+- Head of R&D and Entrepreneurship Department (2013 - 2016) @ **Strategy and Budget Office (then Ministry of Development), Ankara, Turkey**
+- Planning Expert at Development Research Center (2012 - 2013) @ **Strategy and Budget Office (then Ministry of Development), Ankara, Turkey**
+- Planning Expert at R&D and Entrepreneurship Dept. (2000 - 2013) @ **Strategy and Budget Office (then Ministry of Development), Ankara, Turkey**
+- Member of Board of Directors (2013-2016) @ **Technology Development Foundation of Turkey (TTGV), Ankara, Turkey**
 
 
 ## Trainings & Summer Schools 
