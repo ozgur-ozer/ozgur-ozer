@@ -1,6 +1,8 @@
 ## Hello World!
 I am Özgür. I am a Ph.D. candidate at the Middle East Technical University's (METU) Science and Technology Policy Studies Program. 
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40ozgurkadir)](https://twitter.com/ozgurkadir)
+
 ## Research Interests 
 - Science, technology, and innovation policy
 - Development policy
