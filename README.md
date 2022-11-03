@@ -16,9 +16,10 @@ I am Özgür. I am a Ph.D. candidate at the Middle East Technical University's (
 - Erdil, E., **Özer, Ö.K.** (2020). Global Innovation System Design: G20 as a Playground. _Ekonomik Yaklasim_, 31(115), 185-229. DOI: [10.5455/ey.17020](https://doi.org/10.5455/ey.17020)
 
 ### Conferences
-- Pineda, P., Lepori, B., &  **Özer, Ö.K.** (7-9 July 2022). Academic Employment in Europe and the US Between Structural Diversity, Stability and Change. _38th EGOS Colloquium, Vienna 2022_. Vienna, Austria.
+- **Özer, Ö.K.** (24-25 November 2022). Science in A Time of Crisis: COVID-19 in Social Sciences and Humanities in Turkey. _STSTurkey 2022 Conference_. İstanbul, Turkey.
 - **Özer, Ö.K.** & Erden Topal, Y. (7-9 September 2022). The Role of Gender in Turkish Solar Energy Research. _The 26th International Conference on Science, Technology and Innovation Indicators, STI 2022_. Granada, Spain. DOI:[10.5281/zenodo.6906465](https://zenodo.org/record/6906465)
 - **Özer, Ö.K.**, Aydınoğlu, A.U.,  & Erdil. E. (7-9 September 2022). The Relationship Between Participating EU Framework Programmes and International Co-publication. _The 26th International Conference on Science, Technology and Innovation Indicators, STI 2022_. Granada, Spain. DOI:[110.5281/zenodo.6962189](https://zenodo.org/record/6962189)
+- Pineda, P., Lepori, B., &  **Özer, Ö.K.** (7-9 July 2022). Academic Employment in Europe and the US Between Structural Diversity, Stability and Change. _38th EGOS Colloquium, Vienna 2022_. Vienna, Austria.
 - **Özer, Ö.K.** (5-7 November 2021). The Effects of COVID-19 on the Research on Economics in Turkey. _21st National Congress in Economics_. Eskişehir, Turkey.
 - Erdil, E. & **Özer, Ö.K.** (10-12 September 2019). A Global Innovation System Proposal for Sustainable Development Goals (SDGs). _STSTurkey 2019 Conference_. İstanbul, Turkey.
 - Erdil, E., Meissner, D., & **Özer, Ö.K.** (23-24 October 2018). G20: A Room For Global Club Governance: Towards A Global Innovation System? _The G20 @ 10: Benefits, Limitations and The Future of Global Club Governance in Turbulent Times_. German Development Institute. Bonn, Germany.
